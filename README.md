@@ -3,11 +3,11 @@ This project contains research and code related to predictive modeling for salar
 
 Usage:
 
-clone the repository (https://github.com/aramirez209/Predictive-Modeling-for-Salary)
+  1. clone the repository (https://github.com/aramirez209/Predictive-Modeling-for-Salary)
 
-install required dependencies pip install -r requirements.txt
+  2. install required dependencies pip install -r requirements.txt
 
-Run the Python system
+  3. Run the Python system
 
 Contributing: Analya Ramirez
 
